@@ -20,3 +20,5 @@ View your app in AI Studio: https://ai.studio/apps/07aebc85-7ff2-4626-9738-fc255
    `npm run dev`
 
 https://ai.studio/apps/07aebc85-7ff2-4626-9738-fc255cdde66a. Please check out my Agent!! 🕊️🙂
+
+"Note: Clicking the link will open the Nexus AI Agent in Google AI Studio. You will need to sign in with a Google account to interact with the agent (this protects the API quota)."
