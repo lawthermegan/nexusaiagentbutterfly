@@ -1,0 +1,21 @@
+{
+  "name": "Nexus AI",
+  "short_name": "Nexus",
+  "description": "Your personal AI agent with a soft touch.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4C2C2",
+  "theme_color": "#F4C2C2",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=butterfly&backgroundColor=F4C2C2&shape1Color=89CFF0",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=butterfly&backgroundColor=F4C2C2&shape1Color=89CFF0",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

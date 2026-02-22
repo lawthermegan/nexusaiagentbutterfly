@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blush: #F4C2C2;
+  --color-baby-blue: #89CFF0;
+  --color-soft-bg: #FFF9F9;
+}

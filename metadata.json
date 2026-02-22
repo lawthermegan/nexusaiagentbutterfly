@@ -1,0 +1,5 @@
+{
+  "name": "Nexus AI Agent",
+  "description": "A customizable AI agent platform built with Gemini, featuring persona configuration and real-time chat.",
+  "requestFramePermissions": []
+}
